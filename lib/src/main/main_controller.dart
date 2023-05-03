@@ -5,6 +5,7 @@ class MainController {
 
   Future? init(BuildContext context) {
     this.context = context;
+    return null;
   }
 
   void goToRegisterPage() {
